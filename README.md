@@ -1,2 +1,2 @@
 # Random-Search-Algorithm
-It does search to find mimum value in bounded domain.
+It does search to find minimum value in bounded domain.
